@@ -16,8 +16,6 @@ dist-ssr
 
 /build
 
-.env
-.env*.local
 
 npm-debug.log*
 

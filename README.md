@@ -6,3 +6,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Critical fixes
+
+- fix supabase integration and make .env file private
